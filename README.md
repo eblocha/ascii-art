@@ -11,6 +11,6 @@ Tux uses these ascii colors in the neofetch config file:
 ascii_colors=(39 232 250 220 39 39)
 ```
 
-Only colors 2, 3, and 4 are used.
+Only colors 2, 3, and 4 are used. This is best on a grey background terminal.
 
 ![Tux](neofetch/tux.png)
